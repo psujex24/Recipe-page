@@ -1,0 +1,16 @@
+body{
+    background-color:hsl(30, 54%, 90%);
+    display: flex; 
+}
+.bigBox{
+    width: 720px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+  
+}
+.jpg{
+    width: 680px;
+    border-radius: 15px;
+   
+    
+}
